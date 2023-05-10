@@ -13,5 +13,8 @@
             "email": "kacper-pestkaa@wp.pl"
         }
     ],
-    "require": {}
+    "require": {
+        "steampixel/simple-php-router": "^0.7.1",
+        "twig/twig": "^3.6"
+    }
 }
