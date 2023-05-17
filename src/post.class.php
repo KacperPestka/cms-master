@@ -129,8 +129,7 @@ class Post {
 
 }
 
-//KTO NARZYGAŁ DO LODÓWKI GRZESIOWI
-// PRZEZ TO NA PHP NIE CHODZI
+
 
 ?>
 
